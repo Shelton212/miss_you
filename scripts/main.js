@@ -9,7 +9,8 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['小洁',
+  let texts = ['点下屏幕',
+              '小洁','小洁',
               '抬头','抬头',
               '看看夜空','看看夜空', 
               '你和我','你和我', 
